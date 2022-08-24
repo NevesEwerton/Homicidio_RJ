@@ -25,7 +25,10 @@ Pretendo estabelecer o perfil mais frequente dos homicídios. Para responder tal
 
 ![gráfico2](image/raca_barplot.jpg)
 
-
+Agora, já sabemos a raça da vítima dos homicídios no Estado do Rio de Janeiro. Precisamos definir o gênero desta vítima. Pelo gráfico abaixo, é percpetível que os homens são vítimas mais frequentes do que mulheres em todas as vinte cidades. 
 
 ![gráfico3](image/genero_barplot.jpg)
 
+Ademais, podemos ver também os dados do estado inteiro. Esta perspectiva não se altera. Os homens continuam sendo os principais alvos dos homicídios.
+
+![gráfico4](image/pie_plotage.jpg)
