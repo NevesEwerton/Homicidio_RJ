@@ -16,4 +16,13 @@ As bibliotecas abaixo foram utilizadas para tratar os microdados do SIM e gerar 
 
 ## Visualização de Dados
 
+A violência no Estado do Rio de Janeiro é bastante concentrada, o que implica em estatísticas bem baixas para muitos municípios.
+Para lidar com este problema, focamos nas vinte cidades com os maios números absolutos de homicídios do estado fluminense. No gráfico abaixo, temos estes municípios.
+
 ![gráfico1](image/homicidio_plot.jpg)
+
+Pretendo estabelecer o perfil mais frequente dos homicídios. Para responder tal pergunta, irei usar como características como gênero, raça e idade. No segundo gráfico, é possível ver que há uma discrepância entre raças. Pardos são a principal vítima deste tipo de violência. Entretanto, como o IBGE estabelece que negros são a junção de pardos e pretos, a vítima mais evidente passa a ser o negro fluminense. Em todas cidades, com exceção Araruama, os negros são as principais vítimas.
+
+![gráfico2](image/genero1_barplot.jpg)
+
+
