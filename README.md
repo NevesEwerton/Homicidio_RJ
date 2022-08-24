@@ -23,6 +23,9 @@ Para lidar com este problema, focamos nas vinte cidades com os maios números ab
 
 Pretendo estabelecer o perfil mais frequente dos homicídios. Para responder tal pergunta, irei usar como características como gênero, raça e idade. No segundo gráfico, é possível ver que há uma discrepância entre raças. Pardos são a principal vítima deste tipo de violência. Entretanto, como o IBGE estabelece que negros são a junção de pardos e pretos, a vítima mais evidente passa a ser o negro fluminense. Em todas cidades, com exceção Araruama, os negros são as principais vítimas.
 
-![gráfico2](image/genero1_barplot.jpg)
+![gráfico2](image/raca_barplot.jpg)
 
+
+
+![gráfico3](image/genero_barplot.jpg)
 
