@@ -37,3 +37,8 @@ Precisamos definir a idade da nossa vítima padrão. Em alguns gráficos, podemo
 
 ![gráfico5](image/violin_age1.jpg)
 
+Pelas visualizações que temos até agora, temos um indicativo que a vítima padrão dos homicídios do Estado do Rio de Janeiro é homem, negro e jovem. O quadro de correlação abaixo ajuda a consolidar este perfil. Antes, precisamos ressaltar que todos as variáveis têm uma correlação positiva com o número de homicídios. Entretanto, vamos focar naqueles cuja correlação é mais alta. Tanto a variável homem quanto a raça parda tem as correlações altas. O primeiro tem 0.9992 de coeficiente de correlação. Já o segundo tem 0.9929 de coeficiente de correlação. 
+
+![gráfico6](image/correlation1.jpg)
+
+
