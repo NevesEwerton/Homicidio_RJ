@@ -29,6 +29,11 @@ Agora, já sabemos a raça da vítima dos homicídios no Estado do Rio de Janeir
 
 ![gráfico3](image/genero_barplot.jpg)
 
-Ademais, podemos ver também os dados do estado inteiro. Esta perspectiva não se altera. Os homens continuam sendo os principais alvos dos homicídios.
+Ademais, podemos ver também os dados do estado inteiro. Esta perspectiva não se altera. Os homens continuam sendo os principais alvos dos homicídios. Cerca de 93% dos homicídios as vítimas eram homens. Esta desproporção nos indica que estamos no caminho correto.
 
 ![gráfico4](image/pie_plotage.jpg)
+
+Precisamos definir a idade da nossa vítima padrão. Em alguns gráficos, podemos ver que a maior parte das vítimas são jovens entre 20 e 40 anos. Se olharmos os negros (pardos e pretos), essa média de idade cai ainda mais.
+
+![gráfico5](image/violin_age1.jpg)
+
