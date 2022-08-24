@@ -1,5 +1,7 @@
 # Homicidio_RJ
 
+# Objetivo
+
 O presente projeto tem como objetivo analisar o perfil das vítimas de homicídio nas cidades com maior número de assassinatos (números absolutos) do Estado do Rio de Janeiro. Para tal, fiz uso dos dados do Sistema de Informações de Mortalidade (SIM). Os dados foram baixados direto do datalake do Base dos Dados (BD). Foi necessário fazer alguns tratamentos nos microdados do SIM para conseguir fazer a análise do perfil das vítimas. Foi dada ênfase a questões como gênero, raça, idade etc. Foram analisadas apenas as cidades com maior número (absolutos) de assassinatos, pois do Estado do Rio de Janeiro tem como característica a concentração de alguns dados na região metropolitana do estado. 
 
 ## Bibliotecas 
@@ -12,3 +14,6 @@ As bibliotecas abaixo foram utilizadas para tratar os microdados do SIM e gerar 
 * `matplotlib.pyplot`(visualização de dados);
 * `seaborn`(visualização de dados estatísticos);
 
+## Visualização de Dados
+
+![gráfico1](image/homicidio_plot.jpg)
