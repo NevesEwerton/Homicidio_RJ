@@ -6,3 +6,9 @@ O presente projeto tem como objetivo analisar o perfil das vítimas de homicídi
 
 As bibliotecas abaixo foram utilizadas para tratar os microdados do SIM e gerar as visualizações do projeto:
 
+* `pandas`(manipulação e visualização de dados);
+* `basedosdados`(coleta de dados);
+* `numpy`(manipulação de dados);
+* `matplotlib.pyplot`(visualização de dados);
+* `seaborn`(visualização de dados estatísticos);
+
